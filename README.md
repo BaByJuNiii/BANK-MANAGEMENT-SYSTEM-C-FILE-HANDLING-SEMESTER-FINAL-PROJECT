@@ -57,6 +57,6 @@ The application implements a custom **Two-File Swap Pattern** to modify specific
 Clone the repository and run the following commands to compile using `g++`:
 
 ```bash
-git clone [https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git](https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git)
+git clone (https://github.com/BaByJuNiii/BANK-MANAGEMENT-SYSTEM-C-FILE-HANDLING-SEMESTER-FINAL-PROJECT.git)
 cd YOUR_REPOSITORY_NAME
 g++ -std=c++11 main.cpp -o BankSystem
